@@ -22,8 +22,8 @@ img { display: block; max-width: 100%; }
 button, input, textarea { font: inherit; }
 button, summary { cursor: pointer; }
 h1, h2, h3, p { margin-top: 0; }
-h1, h2, h3 { letter-spacing: -.045em; line-height: 1.08; }
-h2 { margin-bottom: 22px; font-size: clamp(2.45rem, 4.4vw, 4rem); text-wrap: balance; }
+h1, h2, h3 { letter-spacing: -.045em; line-height: 1.10; }
+h2 { margin-bottom: 26px; font-size: clamp(2.45rem, 4.4vw, 4rem); text-wrap: balance; }
 h2 span, h1 span, .comparison__side--cro h3, .metric span { display: inline-block; color: transparent; background: linear-gradient(105deg, #5148ee 0%, #7c65ff 48%, #b76cff 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 p { color: var(--muted); }
 .container { width: min(100% - 4rem, var(--container)); margin-inline: auto; }
